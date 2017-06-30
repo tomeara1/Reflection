@@ -5,7 +5,7 @@ Contents
 ---
 # Reflection
 ## 6/30/2017
-Contents
+Today we learned about html and how to code a website. Also we learned how to type the reflection in notepad and convert it onto git hub. We also connected git hub to atom or the other programs we installed. We learned about starve.io and moomoo.io. We spent a lot of times on our computer today learning how to do certain things in cmd.
 
 ---
 # Reflection

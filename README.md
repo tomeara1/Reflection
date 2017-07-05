@@ -1,4 +1,10 @@
 # Reflection
+## 7/5/2017
+Today we just worked onour websites. Te template was already set up on how I wanted my website to look so I didn't have to make many color changes. The changes I made were mostly content about the website. I also deleted a lot of stuff. Now im working on links in the website.
+
+---
+
+# Reflection
 ## 7/3/2017
 Contents
 Today we learned about css and bootstrap. You can use css to change how your website looks. Bootsteap is a template created by twitter that makes your website do certain tasks. It mostly helps with the mobile part of the website. We started to make chnges to our website the were using css. We also started a tempate on w3c.

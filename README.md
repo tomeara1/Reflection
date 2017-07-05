@@ -1,7 +1,7 @@
 # Reflection
-## 7/1/2017
+## 7/3/2017
 Contents
-
+Today we learned about css and bootstrap. You can use css to change how your website looks. Bootsteap is a template created by twitter that makes your website do certain tasks. It mostly helps with the mobile part of the website. We started to make chnges to our website the were using css. We also started a tempate on w3c.
 ---
 # Reflection
 ## 6/30/2017

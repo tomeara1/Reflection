@@ -1,3 +1,9 @@
+#Reflection
+##7/6/2017
+Today we learned about string, interger, front, booean. These are all variables. We started using python and made a few sentences that went from atom to cmd. These sentences were written in the python language. We also learned about our pokemon project.
+
+---
+
 # Reflection
 ## 7/5/2017
 Today we just worked onour websites. The template was already set up on how I wanted my website to look so I didn't have to make many color changes. The changes I made were mostly content about the website. I also deleted a lot of stuff. Now im working on links in the website. Also I am trying to add picture that match the theme of the website, but so far it is looking good although i have a long ways to go.

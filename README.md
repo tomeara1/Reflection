@@ -1,6 +1,6 @@
 #Reflection
 ##7/7/2017
-Today we learned how to make a calculator. We made a calculator that found the area of a triangle. We also learned about lists. We made a calculator that put numbers into a list and then added them together. I almost created the list by myself but I needed some help.
+Today we learned how to make a calculator. We made a calculator that found the area of a triangle. We also learned about lists. We made a calculator that put numbers into a list and then added them together. I almost created the list by myself but I needed some help. The probem was that it was put in as string and not as an interger.
 #Reflection
 ##7/6/2017
 Today we learned about string, interger, front, booean. These are all variables. We started using python and made a few sentences that went from atom to cmd. These sentences were written in the python language. We also learned about our pokemon project.

@@ -1,5 +1,8 @@
 #Reflection
-##7/7/2017
+##7/10/2017
+Today we started working on dictionaries and comparing them to lists. We created catagories and put variables into the catagories and then wrote a command that picked a catagory and told you the variables in that catagory. Then we started to work on our pokemon project. My biggest problem was trying to put two strings together. I did this by using the adding symbole and some variable. So far my project is looking good but the string thing held my back a little and now i am a little behind. Overall it was a very producitve day.
+#Reflection
+##7/10/2017
 Today we started working on our pokemon projects. We have to recreate the intro to pokemon red. For extra credit you can also put in images and make the text come in slowly. Right now I am working on getting th text into the program and also working on putting an input name into one of the pther sentences, but so far this is pretty easy. Its just a lot of copying and pasting texts and also a lot of prints but  you can complete this program with only prints and inputs.
 
 ---
@@ -24,7 +27,7 @@ Today we just worked onour websites. The template was already set up on how I wa
 
 # Reflection
 ## 7/3/2017
-Contents
+
 Today we learned about css and bootstrap. You can use css to change how your website looks. Bootsteap is a template created by twitter that makes your website do certain tasks. It mostly helps with the mobile part of the website. We started to make chnges to our website the were using css. We also started a tempate on w3c.
 
 ---

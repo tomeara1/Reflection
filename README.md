@@ -1,5 +1,8 @@
 #Reflection
-##7/10/2017
+##7/12/2017
+Today we worked on if's and how they work. Then we started working on converting military time to normal time. And we also worked on converting normal time into military time. Today was just a lot of learning and a lot of typing.
+#Reflection
+##7/11/2017
 Today we started working on dictionaries and comparing them to lists. We created catagories and put variables into the catagories and then wrote a command that picked a catagory and told you the variables in that catagory. Then we started to work on our pokemon project. My biggest problem was trying to put two strings together. I did this by using the adding symbole and some variable. So far my project is looking good but the string thing held my back a little and now i am a little behind. Overall it was a very producitve day.
 
 ---

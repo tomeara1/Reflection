@@ -1,6 +1,14 @@
 #Reflection
+##7/13/2017
+Today we learned about loops and how to write them in code. We started working on a project that counted down numbers. At first the eequation i set to make the project work was wrong but I did not notice it. Once I noticed it I fixed it and the code worked. Then we started working on the same thing but it converted numbers into dots and made big squares. I was having a lot of troouble with this code and I have still not completed the code. Overall was a very productive day and I learned a lot about loops.
+
+#Reflection
 ##7/12/2017
 Today we worked on if's and how they work. Then we started working on converting military time to normal time. And we also worked on converting normal time into military time. Today was just a lot of learning and a lot of typing.
+#Reflection
+
+---
+
 #Reflection
 ##7/11/2017
 Today we started working on dictionaries and comparing them to lists. We created catagories and put variables into the catagories and then wrote a command that picked a catagory and told you the variables in that catagory. Then we started to work on our pokemon project. My biggest problem was trying to put two strings together. I did this by using the adding symbole and some variable. So far my project is looking good but the string thing held my back a little and now i am a little behind. Overall it was a very producitve day.

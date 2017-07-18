@@ -1,47 +1,47 @@
- #Reflection
- ##7/18/2017
+ # Reflection
+ ## 7/18/2017
 Today we worked on the wifi hacking project. I could not finish it because it was too complicated for me. We started working on this websitee that tought us how to use python. I got all the way to the strigs part and then I stopped.
 
 ---
 
- #Reflection
- ##7/17/2017
+ # Reflection
+ ## 7/17/2017
 Today we worked on for loops. We first used them to create a program that counted to ten. Once you learn how to use for loops it makes a lot of other things easy. Then we started using loops to solve a facotrial. Overall this day was very challengeing and I learned a lot.
 
 ---
 
- #Reflection
- ##7/13/2017
+ # Reflection
+ ## 7/13/2017
 Today we learned about loops and how to write them in code. We started working on a project that counted down numbers. At first the eequation i set to make the project work was wrong but I did not notice it. Once I noticed it I fixed it and the code worked. Then we started working on the same thing but it converted numbers into dots and made big squares. I was having a lot of troouble with this code and I have still not completed the code. Overall was a very productive day and I learned a lot about loops.
 
 ---
 
- #Reflection
- ##7/12/2017
+ # Reflection
+ ## 7/12/2017
 Today we worked on if's and how they work. Then we started working on converting military time to normal time. And we also worked on converting normal time into military time. Today was just a lot of learning and a lot of typing.
 
 ---
 
- #Reflection
- ##7/11/2017
+ # Reflection
+ ## 7/11/2017
 Today we started working on dictionaries and comparing them to lists. We created catagories and put variables into the catagories and then wrote a command that picked a catagory and told you the variables in that catagory. Then we started to work on our pokemon project. My biggest problem was trying to put two strings together. I did this by using the adding symbole and some variable. So far my project is looking good but the string thing held my back a little and now i am a little behind. Overall it was a very producitve day.
 
 ---
 
- #Reflection
- ##7/10/2017
+ # Reflection
+ ## 7/10/2017
 Today we started working on our pokemon projects. We have to recreate the intro to pokemon red. For extra credit you can also put in images and make the text come in slowly. Right now I am working on getting th text into the program and also working on putting an input name into one of the pther sentences, but so far this is pretty easy. Its just a lot of copying and pasting texts and also a lot of prints but  you can complete this program with only prints and inputs.
 
 ---
 
- #Reflection
- ##7/7/2017
+ # Reflection
+ ## 7/7/2017
 Today we learned how to make a calculator. We made a calculator that found the area of a triangle. We also learned about lists. We made a calculator that put numbers into a list and then added them together. I almost created the list by myself but I needed some help. The probem was that it was put in as string and not as an interger.
 
 ---
 
- #Reflection
- ##7/6/2017
+ # Reflection
+ ## 7/6/2017
 Today we learned about string, interger, front, booean. These are all variables. We started using python and made a few sentences that went from atom to cmd. These sentences were written in the python language. We also learned about our pokemon project.
 
 ---

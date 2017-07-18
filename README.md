@@ -1,5 +1,11 @@
  #Reflection
- ##7/13/2017
+ ##7/18/2017
+Today we worked on the wifi hacking project. I could not finish it because it was too complicated for me. We started working on this websitee that tought us how to use python. I got all the way to the strigs part and then I stopped.
+
+---
+
+ #Reflection
+ ##7/17/2017
 Today we worked on for loops. We first used them to create a program that counted to ten. Once you learn how to use for loops it makes a lot of other things easy. Then we started using loops to solve a facotrial. Overall this day was very challengeing and I learned a lot.
 
  #Reflection

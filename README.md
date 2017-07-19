@@ -1,4 +1,7 @@
  # Reflection
+ ##7/19/2017
+Today we kept on working on our wifi project. I was in the infirmary for a decent amount of time so I did not get much done. I could not complete the project. Hopefully I can finish it tonight.
+ # Reflection
  ## 7/18/2017
 Today we worked on the wifi hacking project. I could not finish it because it was too complicated for me. We started working on this websitee that tought us how to use python. I got all the way to the strigs part and then I stopped.
 

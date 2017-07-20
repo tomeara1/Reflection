@@ -1,6 +1,12 @@
+ #Reflection
+ ##7/20/2017
+Today we worked on the happy numbers project. The idea behind this project was to put a number through a series of equations and see if it equals 1. If it equals 1 then it is a happy number. I did not finish the project but I tried my best to finish it. We also learned about functions today. It was a very hard concept for me to wrap my head around but I tried my best to keep up with the class. Overall it was a very prodctive day and I like days were we just get to sit and work on out projects 
  # Reflection
- ##7/19/2017
+ ## 7/19/2017
 Today we kept on working on our wifi project. I was in the infirmary for a decent amount of time so I did not get much done. I could not complete the project. Hopefully I can finish it tonight.
+ 
+---
+
  # Reflection
  ## 7/18/2017
 Today we worked on the wifi hacking project. I could not finish it because it was too complicated for me. We started working on this websitee that tought us how to use python. I got all the way to the strigs part and then I stopped.

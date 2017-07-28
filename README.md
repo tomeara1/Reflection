@@ -1,6 +1,24 @@
  #Reflection
+ ##7/28/17
+ This summer we did ALOT. We started off with computer basics, learning how to build and how a computer works. Then we created a github account and we started working on our projects. We did so many projects we made a calculator, we created a twitterbot, and we tried happy numbers. Overall this class was extemly fun and I learned a lot. Thank you Mr. Gold.
+ #Reflection
+ ##7/25/2017
+Today we kept on working on our twitterbot. Instead of posting tweets we are replying directially to people. We had to put our keys into a seperate foldeer to make sure no one steals our keys. Overall it was a very productive class
+
+---
+
+ #Reflection
+ ##7/20/2017
+Today we wroked on a twitter bot. We createdd a new twitter acount and used code to send tweets out.
+
+---
+
+ #Reflection
  ##7/20/2017
 Today we worked on the happy numbers project. The idea behind this project was to put a number through a series of equations and see if it equals 1. If it equals 1 then it is a happy number. I did not finish the project but I tried my best to finish it. We also learned about functions today. It was a very hard concept for me to wrap my head around but I tried my best to keep up with the class. Overall it was a very prodctive day and I like days were we just get to sit and work on out projects 
+ 
+---
+
  # Reflection
  ## 7/19/2017
 Today we kept on working on our wifi project. I was in the infirmary for a decent amount of time so I did not get much done. I could not complete the project. Hopefully I can finish it tonight.
